@@ -1,0 +1,16 @@
+{
+  "name": "joinbot-discord-bot",
+  "version": "1.0.0",
+  "description": "A Discord-controlled Minecraft join bot that handles authentication, GUI interaction, and timed sessions.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "YourName",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "mineflayer": "^4.12.0"
+  }
+}
